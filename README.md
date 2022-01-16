@@ -1,4 +1,4 @@
-### Hello. We’re Curious Ways — builders of brands and makers of websites and campaigns
+### Hello. We’re Curious Ways — a creative partnership making human brands for a digital world
 
 - We love to build sites with [NextJS](https://nextjs.org/) and deploy with [Vercel](https://vercel.com/)
 - We're big fans of building custom Wordpress themes with [Timber](https://upstatement.com/timber/)
